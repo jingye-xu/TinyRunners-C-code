@@ -9,7 +9,7 @@ The cource code is built for MDK5 IDE.
 
 1. Download the source file
 
-2. Import project though MDK5  
+2. Import project through MDK5  
 
 3. Follow the official instructions to modify "Options for target":[https://github.com/tinymlcontest/tinyml_contest2022_demo_evaluation](https://github.com/tinymlcontest/tinyml_contest2022_demo_evaluation)
 
